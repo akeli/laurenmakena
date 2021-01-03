@@ -1,0 +1,55 @@
+﻿body {
+}
+.flex-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.book-cont {
+    padding: 5px;
+}
+
+.book-img {
+    height: 300px;
+}
+
+.sub-sect {
+    padding-top:50px;
+}
+
+.hr-pad {
+    padding-top: 50px;
+}
+
+.anth-details {
+    max-width: 300px;
+    margin: 0px auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.pad-top {
+    padding-top: 40px;
+}
+
+.module2 {
+    padding: 40px 0;
+}
+
+.lbun {
+    height: 400px;
+}
+
+.fiftyp {
+    height: 50px;
+    width: 100%;
+}
+
+.pad-btw {
+    height: 100px;
+    width: 100%;
+    width: 10px;
+}
